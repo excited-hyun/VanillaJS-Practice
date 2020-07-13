@@ -1,1 +1,1 @@
-# Making Chrome App with VanillaJS
+# Practice Basic Concepts of VanillaJS
